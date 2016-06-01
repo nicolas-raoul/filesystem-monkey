@@ -1,0 +1,10 @@
+C:\Users\win7pro32bit\Documents\lab-sharpshell-overlay\filesystem-monkey\filesystem-monkey\bin\Debug\filesystem-monkey.exe
+C:\Users\win7pro32bit\Documents\lab-sharpshell-overlay\filesystem-monkey\filesystem-monkey\bin\Debug\filesystem-monkey.pdb
+C:\Users\win7pro32bit\Documents\lab-sharpshell-overlay\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.exe
+C:\Users\win7pro32bit\Documents\lab-sharpshell-overlay\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.pdb
+C:\Users\win7pro32bit\Documents\lab-sharpshell-overlay\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.csprojResolveAssemblyReference.cache
+C:\Users\win7pro32bit\Documents\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.exe
+C:\Users\win7pro32bit\Documents\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.pdb
+C:\Users\win7pro32bit\Documents\filesystem-monkey\filesystem-monkey\bin\Debug\filesystem-monkey.exe
+C:\Users\win7pro32bit\Documents\filesystem-monkey\filesystem-monkey\bin\Debug\filesystem-monkey.pdb
+C:\Users\win7pro32bit\Documents\filesystem-monkey\filesystem-monkey\obj\x86\Debug\filesystem-monkey.csprojResolveAssemblyReference.cache
