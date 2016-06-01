@@ -4,7 +4,7 @@ Creates/deletes/moves files and folders forever within the folder of your choice
 
 Usage:
 ```
-filesystem-monkey.exe path/to/folder
+filesystem-monkey.exe path\to\folder
 ````
 
-Or just `filesystem-monkey.exe` to create files/folders in the current directory.
+Or just `filesystem-monkey.exe` to perform filesystem monkey testing in the current directory.
