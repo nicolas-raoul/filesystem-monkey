@@ -1,6 +1,7 @@
 # Filesystem Monkey
 
-Creates/deletes/moves files and folders forever within the folder of your choice. Perfect to monkey-test any filesystem or tool that watches the filesystem.
+Keeps creating/deleting/moving random files and folders until you stop it, within the folder of your choice.  
+Perfect to monkey-test any filesystem or tool that watches the filesystem.
 
 Usage:
 ```
