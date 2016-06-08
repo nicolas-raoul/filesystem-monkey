@@ -130,7 +130,7 @@ namespace filesystem_monkey
                 string result =  files[random.Next(files.Length)];
 
                 // Avoid the filesystem-monkey.exe executable.
-                if (result.Equals(System.AppDomain.CurrentDomain.FriendlyName))
+                if (Path.GetFileName(result).Equals(System.AppDomain.CurrentDomain.FriendlyName))
                 {
                     return null;
                 }

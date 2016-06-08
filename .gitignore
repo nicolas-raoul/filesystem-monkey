@@ -3,3 +3,4 @@
 *.cache
 *.suo
 filesystem-monkey/bin/Debug/filesystem-monkey.vshost.exe.manifest
+filesystem-monkey.suo
