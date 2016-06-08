@@ -127,7 +127,17 @@ namespace filesystem_monkey
             }
             else
             {
-                return files[random.Next(files.Length)];
+                string result =  files[random.Next(files.Length)];
+
+                // Avoid the filesystem-monkey.exe executable.
+                if (result.Equals(System.AppDomain.CurrentDomain.FriendlyName))
+                {
+                    return null;
+                }
+                else
+                {
+                    return result;
+                }
             }
         }
 
