@@ -4,3 +4,4 @@
 *.suo
 filesystem-monkey/bin/Debug/filesystem-monkey.vshost.exe.manifest
 filesystem-monkey.suo
+filesystem-monkey/obj/x86/Debug/filesystem-monkey.csproj.FileListAbsolute.txt
