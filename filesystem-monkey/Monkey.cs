@@ -32,19 +32,19 @@ namespace filesystem_monkey
             {
                 try
                 {
-                    if (random.Next(100) < 3 * (targetFilesNumber - fs.NumberOfFiles()))
+                    if (random.Next(100) < 3 * (3 + targetFilesNumber - fs.NumberOfFiles()))
                     {
                         fs.CreateFile(30);
                     }
-                    if (random.Next(100) < 3 * (targetFoldersNumber - fs.NumberOfFolders()))
+                    if (random.Next(100) < 3 * (3 + targetFoldersNumber - fs.NumberOfFolders()))
                     {
                         fs.CreateFolder();
                     }
-                    if (random.Next(100) < 3 * (fs.NumberOfFiles() - targetFilesNumber))
+                    if (random.Next(100) < 3 * (3 + fs.NumberOfFiles() - targetFilesNumber))
                     {
                         fs.DeleteFile();
                     }
-                    if (random.Next(100) < 3 * (fs.NumberOfFolders() - targetFoldersNumber))
+                    if (random.Next(100) < 3 * (3 + fs.NumberOfFolders() - targetFoldersNumber))
                     {
                         fs.DeleteFolder();
                     }
