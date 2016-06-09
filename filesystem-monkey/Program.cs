@@ -26,7 +26,7 @@ namespace filesystem_monkey
             }
 
             // Run the monkey.
-            new FilesystemMonkey(folder).run();
+            new Monkey(folder).run();
         }
     }
 }
